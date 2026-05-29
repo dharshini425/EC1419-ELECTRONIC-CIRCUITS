@@ -14,22 +14,15 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="932" height="1600" alt="592864368-8c8a6ac7-d653-4390-9872-5c9c7a184835" src="https://github.com/user-attachments/assets/4225e56e-0089-4b70-b6c5-c3aa8ece4320" />
-
+<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
 
 ## MODEL GRAPH
 
-<img width="900" height="1600" alt="592864541-f01ab922-ce29-48e4-86ab-761d8c086139" src="https://github.com/user-attachments/assets/853330a4-6517-4f9d-a591-73c81c5ec03e" />
+<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
+<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
-
-## Graph
-
-<img width="1600" height="310" alt="592864691-ee2571a6-f7d1-4f05-b23a-217000755b6d" src="https://github.com/user-attachments/assets/a31143f5-a66a-4e78-a8c3-6a57359b1de4" />
-
-
-
-## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+RESULT:
+thus the frequency is calculated by using a lt spice
 
 
