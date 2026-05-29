@@ -29,8 +29,6 @@
 
 
 ## Result
+thus the wein bridge oscillation was simulated by using a lt spice
 
-
-
-<img width="693" height="167" alt="509961314-b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" src="https://github.com/user-attachments/assets/038dc074-ffbf-4881-b92b-327818eced19" />
 
